@@ -1,0 +1,5 @@
+172.23.0.1 - - [15/Sep/2020:12:40:45 +0000] "GET /Project1/Services/BookHandler.php HTTP/1.1" 404 41549 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36"
+172.23.0.1 - - [15/Sep/2020:12:40:45 +0000] "GET /_wdt/57b3cb HTTP/1.1" 200 3958 "http://localhost/Project1/Services/BookHandler.php" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36"
+172.23.0.1 - - [15/Sep/2020:12:41:20 +0000] "GET /_profiler/open?file=public/index.php&line=28 HTTP/1.1" 200 4420 "http://localhost/Project1/Services/BookHandler.php" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36"
+172.23.0.1 - - [15/Sep/2020:12:41:45 +0000] "GET / HTTP/1.1" 404 21426 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36"
+172.23.0.1 - - [15/Sep/2020:12:41:45 +0000] "GET /_wdt/fe429c HTTP/1.1" 200 3502 "http://localhost/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36"
